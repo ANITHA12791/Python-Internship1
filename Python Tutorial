@@ -1,0 +1,2 @@
+String="hello world" 
+Print (string[2:])
